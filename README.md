@@ -1,4 +1,4 @@
-# OduncKitap_Sunum
+# OduncKitap
 
 Wissen Akademie Full Stack Software Developer kursu kapsamında yapılmış projedir. 
 
