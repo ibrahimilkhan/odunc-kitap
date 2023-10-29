@@ -1,6 +1,4 @@
-# OduncKitap Proje Sunumu
-
-Wissen Akademie Full Stack Software Developer kursu kapsamında yapılmış projedir. 
+# OduncKitap
 
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
 
