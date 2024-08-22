@@ -1,8 +1,6 @@
-# OduncKitap
-
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
 
-* ASP.NET MVC kullanılarak yazılmış web projesidir.
+* Framework: ASP.NET MVC
 * Veri tabanı işlemleri için Entity Framework - Database First yaklaşımı kullanılmıştır. 
 * BLLveDAL (tek katman içinde) - User Interface olmak üzere iki katmanlıdır. 
 
