@@ -1,7 +1,7 @@
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
 
 * Framework: ASP.NET MVC
-* ORM: Entity Framework - Database First
+* ORM: EF
 * BLLveDAL (tek katman içinde) - User Interface olmak üzere iki katmanlıdır. 
 
 ## Proje Hakkında Genel Bilgiler
