@@ -2,7 +2,6 @@
 
 * Framework: ASP.NET MVC
 * ORM: EF
-* BLLveDAL (tek katman içinde) - User Interface olmak üzere iki katmanlıdır. 
 
 ## Proje Hakkında Genel Bilgiler
 
